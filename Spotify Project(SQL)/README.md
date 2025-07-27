@@ -68,7 +68,7 @@ The dataset contains detailed information about Spotify tracks and their YouTube
 
 ## Example Queries
 
-SONGS RECOMMENDER SYSTEM (e.g. ‘Shape of You’)
+Songs Recommender System (e.g. ‘Shape of You’)
 ---
 ```
 SELECT 
