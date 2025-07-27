@@ -134,9 +134,9 @@ GROUP BY
 
 
 ## How to Use
-- Load Spotify.csv into your preferred SQL database (? MySQL / PostgreSQL recommended)
+- Load Spotify Data.csv into your preferred SQL database (MySQL / PostgreSQL recommended)
 
-- Navigate to the /queries folder and execute the SQL scripts corresponding to each objective
+- Navigate to the Spotify Project file and execute the SQL scripts corresponding to each objective
 
 - Customize filters, thresholds, or metrics based on your interests and analytical goals
 
