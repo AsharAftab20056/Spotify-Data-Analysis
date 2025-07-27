@@ -70,7 +70,7 @@ The dataset contains detailed information about Spotify tracks and their YouTube
 
 SONGS RECOMMENDER SYSTEM (e.g. ‘Shape of You’)
 ---
-
+```
 SELECT 
   'Shape of You' AS base_track,
   t2.track, 
@@ -94,11 +94,12 @@ ON
 ORDER BY 
   similarity_score ASC
 LIMIT 5;
-
+```
+---
 
 Classify songs by danceability and compare average views
 ---
-
+```
 WITH dance_groups AS (
   SELECT 
     track,
@@ -121,6 +122,8 @@ FROM
 GROUP BY 
   dancing_song;
 
+```
+---
 
 ## What I Learned
 
