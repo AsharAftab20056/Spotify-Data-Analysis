@@ -143,11 +143,15 @@ GROUP BY
 - Use the insights for dashboards, reports, or further predictive modeling
 
 ## License
+
 This project is free for educational and non-commercial use.
 Feel free to fork, improve, or reuse with credits.
 
+---
+
 Download the dataset: https://drive.google.com/file/d/11-A-Yyc_5Dw05p101Mcz-n-2-3eft5qz/view?usp=drive_link
 
+---
 ## Let's Connect!
 
 ### Ashar Aftab 
